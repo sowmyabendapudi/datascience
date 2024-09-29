@@ -1,2 +1,3 @@
 Hello! I am syncing my vscode to git.
 Now I am editing just to see how the git is syncing with us.
+Firstly i have given in description abt the txt file but actually the commit msg should be at message box
